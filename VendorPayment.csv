@@ -1,0 +1,3 @@
+Block,Supplier_Account_No,Supplier_Name,Bill_No,Date,Payment_Amount,Due_Date,Creditor_IBAN,Creditor_BIC,Remittance_Info,Address1,Address2
+Block 1,PCPRO/MERCURY DISTRIBUTION,Mercury Distribution,SI357767,11-04-2024 00:00,1,10-06-2024 00:00,IE86AIBK93136501677090,AIBKIE2DXXX,Vendor1,Togher,Cork
+Block 2,RICHMOND ELECTRICAL WHOLESALE,Richmond Electrical Wholesale Ltd,577130,26-04-2024 00:00,2,25-06-2024 00:00,IE63AIBK93210801855068,AIBKIE2DXXX,Vendor2,Unit 17 18 Finglas Business Centre,Dublin
